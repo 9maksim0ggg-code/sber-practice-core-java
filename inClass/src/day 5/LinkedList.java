@@ -1,3 +1,4 @@
+/*
 public class LinkedList<T>{
 
     Node root;
@@ -37,3 +38,4 @@ public class LinkedList<T>{
 
 
 }
+*/
