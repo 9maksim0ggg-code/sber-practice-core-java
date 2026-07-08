@@ -8,7 +8,7 @@ import java.util.Locale;
 
 public class Task2 {
     public static void main(String[] args) throws IOException {
-        String filePath = "textDay5.txt";
+        String filePath = "day5/textDay5.txt";
         BufferedReader reader = new BufferedReader(new FileReader(filePath));
         String line;
         HashMap<String,Integer> wordsMap = new HashMap();
